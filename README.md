@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melparker101
-- 👀 I’m interested in bioinformatics/computational medicine/machine learning
+- 👀 I’m interested in bioinformatics/computational medicine.
 - 🌱 I’m currently developing my Linux, Python and R skills.
 - :fire: My new interest is Machine Learning.
 
