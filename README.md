@@ -3,6 +3,26 @@
 - 🌱 I’m currently developing my Linux, Python and R skills.
 - :fire: My new interest is machine learning.
 
+Projects involved in include:
+-  Cancer systems biology
+-  Drug response prediction
+-  Integration and annotation of scRNA-seq datasets
+-  Prioritising etiological cell-types
+-  Virus diagnostics
+-  Bacterial antimicrobial-resistance outbreaks
+
+- Sequencing data handled:
+  -  Illumina scRNA/snRNA, bulk RNA, DNA
+  -  Nanopore DNA
+
+Diseases/pathogens researched:
+- Neuroblastoma
+- SARS-CoV-2 
+- Obesity and metabolic diseases
+- Female infertility
+- Pan-virus
+- Escherichia coli and Klebsiella pneumoniae
+
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
