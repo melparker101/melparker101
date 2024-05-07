@@ -11,7 +11,7 @@ Projects involved in include:
 -  Virus diagnostics
 -  Bacterial antimicrobial-resistance outbreaks
 
-- Sequencing data handled:
+Sequencing data handled:
   -  Illumina scRNA/snRNA, bulk RNA, DNA
   -  Nanopore DNA
 
