@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @melparker101
-- 👀 I’m interested in bioinformatics/computational medicine/systems biology.
-- 🌱 I’m currently developing my Linux, Python and R skills.
-- :fire: My new interest is machine learning.
+👋 Hi, I’m @melparker101
+👀 I’m interested in bioinformatics/computational medicine/systems biology.
+🌱 I’m currently developing my Linux, Python and R skills.
+:fire: My new interest is machine learning.
+
+---
 
 Projects involved in include:
 -  Cancer systems biology
