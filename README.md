@@ -7,6 +7,8 @@
 
 🌱 I’m currently developing my Linux, Python and R skills.
 
+💚 I'm a massive fan of Nextflow WMS.
+
 :fire: My new interest is machine learning.
 
 ---
