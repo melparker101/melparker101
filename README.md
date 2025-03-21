@@ -11,12 +11,13 @@
 
 ---
 
-Projects involved in include:
+Projects have included:
 -  Cancer systems biology
--  Drug response prediction
+-  Cancer drug response prediction
 -  Integration and annotation of scRNA-seq datasets
--  Prioritising etiological cell-types
--  Virus diagnostics
+-  Variant calling from RNA seq data
+-  Prioritising etiological cell-types (ovary and adipose cells)
+-  Virus diagnostics (RNA respiratory viruses)
 -  Bacterial antimicrobial-resistance outbreaks
 
 Sequencing data handled:
@@ -26,8 +27,9 @@ Sequencing data handled:
 Diseases/pathogens researched:
 - Neuroblastoma
 - SARS-CoV-2 
-- Obesity and metabolic diseases
+- Obesity and cardiometabolic diseases
 - Female infertility
+- Pan-cancer
 - Pan-virus
 - Escherichia coli and Klebsiella pneumoniae
 
